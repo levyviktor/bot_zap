@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "whatsapp-web.js": "^1.21.0"
+  }
+}
